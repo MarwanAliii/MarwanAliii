@@ -3,7 +3,7 @@
 Hey! You have stumbled upon my GitHub account, where I showcase my skills as a developer. I love to code, debug, and repeat. I face a lot of challenges, but I always try to overcome them and learn from them. And by overcome, I mean copy and paste from Stack Overflow. 
 You can check out some of my projects here, which I'm proud of but also open to feedback and improvement. Feel free to fork, star, or comment on anything you find interesting. Or don't. It's your choice. I hope you have a good time and a great day!
 
-# <img src="https://media.giphy.com/media/nDN6HAU0y3gOXMgQ3d/giphy.gif" width="288px" height="162px"> About Me
+# <img src="https://media.giphy.com/media/3SlVtxjZFH0yR4WsHJ/giphy.gif" width="39px" height="48px"> About Me
 🎓 I am Marwan Ali, a Computer Engineering student at McMaster University. I am a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Embedded Systems and actively looking for opportunities. Please feel free to reach out to me if you have any questions or suggestions. I am always open to interesting conversations and collaboration!
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **weight lifting**, **running**, **Archery**, and **going out with friends**.
