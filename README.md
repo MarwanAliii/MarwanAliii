@@ -1,35 +1,18 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/LKzGYwKzWtsfSPt2Wd" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/red-rocket-v4-LKzGYwKzWtsfSPt2Wd">via GIPHY</a></p>
 
-<!--
-**MarwanAliii/MarwanAliii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Hello World! You have stumbled upon my GitHub account, where I showcase my skills as a developer. I love to code, debug, and repeat. I face a lot of challenges, but I always try to overcome them and learn from them. And by overcome, I mean copy and paste from Stack Overflow. 
+You can check out some of my projects here, which I'm proud of but also open to feedback and improvement. Feel free to fork, star, or comment on anything you find interesting. Or don't. It's your choice. I hope you have a good time and a great day!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-Cool Visuals for README.md
-
--->
 ### 🚀 About Me
-🎓 I am Tapajyoti Bose, a **Front End Web Developer** (specializing in **React Applications**) and a **Top Rated** [**Freelancer**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) on _Upwork_. I am also Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in mid-2022.
+🎓 I am Marwan Ali a Computer Engineering student at McMaster University. I am a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Embedded Systems and actively looking for opportunities. Please feel free to reach out to me if you have any questions or suggestions. I am always open to interesting conversations and collaboration!
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) and [**Blogging**](https://dev.to/ruppysuppy) quite recently and made a name for myself.
+🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **weight lifting**, **running**, **Archery**, and **going out with friends**.
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **break dancing (hip-hop)**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
+📚 I also love reading books on **personal development** & **inspiring stories**. My favorite ones are **Can't Hurt Me** by _David Goggins_, **Atomic Habits** by _James Clear_, and **How to Win Friends and Influence People** by _Dale Carnegie_.
 
-📚 I also love reading books on **personal development** & **financial literacy**. My favorite ones are **The Compound Effect** by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.
-
-✈️ I love **traveling** too. I have been on solo trips to **Bhutan** in _2018_ and to **Hyderabad, India** in _2021_.
+✈️ I love **traveling** too. I have been to coutries like **Germany, Austria, France, Egypt, Switzerland** and my next destination is **Japan**.
 
 ### Skills
 #### Languages
