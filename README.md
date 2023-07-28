@@ -1,9 +1,9 @@
-# HELLO WORLD! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 Hey! You have stumbled upon my GitHub account, where I showcase my skills as a developer. I love to code, debug, and repeat. I face a lot of challenges, but I always try to overcome them and learn from them. And by overcome, I mean copy and paste from Stack Overflow. 
 You can check out some of my projects here, which I'm proud of but also open to feedback and improvement. Feel free to fork, star, or comment on anything you find interesting. I hope you have a good time and a great day!
 
-# <img src="https://media.giphy.com/media/lc4yfkBSZ06lQIuJmz/giphy.gif" width="40px" height="40px"> About Me
+# <img src="https://media.giphy.com/media/lc4yfkBSZ06lQIuJmz/giphy.gif" width="35px" height="35px"> About Me
 🎓 My name is Marwan Ali, a Computer Engineering undergraduate at McMaster University. My passion for learning is undying, constantly fueling my exploration across diverse technologies and domains. Leveraging new technologies to solve real-life problems is what truly excites me. Currently, my focus is primarily on embedded systems, robotics, and computer architechture and I am actively on the lookout for opportunities in this field. If you have any suggestions or queries, don't hesitate to reach out. Engaging in intriguing conversations and collaborative projects is always something I am open to.
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **weight lifting**, **running**, **archery**, and **going out with friends**.
