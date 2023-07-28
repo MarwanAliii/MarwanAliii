@@ -1,11 +1,10 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# HELLO WORLD! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/LKzGYwKzWtsfSPt2Wd" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/red-rocket-v4-LKzGYwKzWtsfSPt2Wd">via GIPHY</a></p>
-
-🌱 Hello World! You have stumbled upon my GitHub account, where I showcase my skills as a developer. I love to code, debug, and repeat. I face a lot of challenges, but I always try to overcome them and learn from them. And by overcome, I mean copy and paste from Stack Overflow. 
+## <img src="https://media.giphy.com/media/gFK6scW91lwIA6vRXD/giphy.gif" width="29px" height="29px">
+Hey! You have stumbled upon my GitHub account, where I showcase my skills as a developer. I love to code, debug, and repeat. I face a lot of challenges, but I always try to overcome them and learn from them. And by overcome, I mean copy and paste from Stack Overflow. 
 You can check out some of my projects here, which I'm proud of but also open to feedback and improvement. Feel free to fork, star, or comment on anything you find interesting. Or don't. It's your choice. I hope you have a good time and a great day!
 
-### 🚀 About Me
+## <img src="https://media.giphy.com/media/LKzGYwKzWtsfSPt2Wd/giphy.gif" width="29px" height="29px"> About Me
 🎓 I am Marwan Ali a Computer Engineering student at McMaster University. I am a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Embedded Systems and actively looking for opportunities. Please feel free to reach out to me if you have any questions or suggestions. I am always open to interesting conversations and collaboration!
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **weight lifting**, **running**, **Archery**, and **going out with friends**.
@@ -14,8 +13,8 @@ You can check out some of my projects here, which I'm proud of but also open to 
 
 ✈️ I love **traveling** too. I have been to coutries like **Germany, Austria, France, Egypt, Switzerland** and my next destination is **Japan**.
 
-### Skills
-#### Languages
+## Skills
+### Languages
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -24,7 +23,7 @@ You can check out some of my projects here, which I'm proud of but also open to 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-#### Environments
+### Environments
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -34,14 +33,14 @@ You can check out some of my projects here, which I'm proud of but also open to 
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-FFA500?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
-#### Embedded Systems
+### Embedded Systems
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![STM32](https://img.shields.io/badge/STMicroelectronics-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/Espressif-000000?style=for-the-badge&logo=espressif&logoColor=white)
 
 
-### Contact Me
+## Contact Me
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://marwansdomain.notion.site/Marwan-Ali-e0a92d7b209a45459904c70395a6f80e?pvs=4)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marwan-ali/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ali186@mcmaster.ca)
