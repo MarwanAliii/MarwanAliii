@@ -1,16 +1,16 @@
 # HELLO WORLD! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 Hey! You have stumbled upon my GitHub account, where I showcase my skills as a developer. I love to code, debug, and repeat. I face a lot of challenges, but I always try to overcome them and learn from them. And by overcome, I mean copy and paste from Stack Overflow. 
-You can check out some of my projects here, which I'm proud of but also open to feedback and improvement. Feel free to fork, star, or comment on anything you find interesting. Or don't. It's your choice. I hope you have a good time and a great day!
+You can check out some of my projects here, which I'm proud of but also open to feedback and improvement. Feel free to fork, star, or comment on anything you find interesting. I hope you have a good time and a great day!
 
-# <img src="https://media.giphy.com/media/lc4yfkBSZ06lQIuJmz/giphy.gif" width="48px" height="48px"> About Me
-🎓 I am Marwan Ali, a Computer Engineering student at McMaster University. I am a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Embedded Systems and actively looking for opportunities. Please feel free to reach out to me if you have any questions or suggestions. I am always open to interesting conversations and collaboration!
+# <img src="https://media.giphy.com/media/lc4yfkBSZ06lQIuJmz/giphy.gif" width="40px" height="40px"> About Me
+🎓 My name is Marwan Ali, a Computer Engineering undergraduate at McMaster University. My passion for learning is undying, constantly fueling my exploration across diverse technologies and domains. Leveraging new technologies to solve real-life problems is what truly excites me. Currently, my focus is primarily on embedded systems, robotics, and computer architechture and I am actively on the lookout for opportunities in this field. If you have any suggestions or queries, don't hesitate to reach out. Engaging in intriguing conversations and collaborative projects is always something I am open to.
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **weight lifting**, **running**, **Archery**, and **going out with friends**.
+🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **weight lifting**, **running**, **archery**, and **going out with friends**.
 
 📚 I also love reading books on **personal development** & **inspiring stories**. My favorite ones are **Can't Hurt Me** by _David Goggins_, **Atomic Habits** by _James Clear_, and **How to Win Friends and Influence People** by _Dale Carnegie_.
 
-✈️ I love **traveling** too. I have been to coutries like **Germany, Austria, France, Egypt, Switzerland** and my next destination is **Japan**.
+✈️ I love **traveling** too. I have been to countries like **Germany, Austria, France, Egypt, Switzerland** and my next destination is **Japan**.
 
 ## <img src="https://media.giphy.com/media/GlHV2O0IpxAsRjVsNb/giphy.gif" width="40px" height="40px"> Skills
 ### Languages
