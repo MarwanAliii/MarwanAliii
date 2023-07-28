@@ -1,10 +1,9 @@
 # HELLO WORLD! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-## <img src="https://media.giphy.com/media/gFK6scW91lwIA6vRXD/giphy.gif" width="29px" height="29px">
 Hey! You have stumbled upon my GitHub account, where I showcase my skills as a developer. I love to code, debug, and repeat. I face a lot of challenges, but I always try to overcome them and learn from them. And by overcome, I mean copy and paste from Stack Overflow. 
 You can check out some of my projects here, which I'm proud of but also open to feedback and improvement. Feel free to fork, star, or comment on anything you find interesting. Or don't. It's your choice. I hope you have a good time and a great day!
 
-## <img src="https://media.giphy.com/media/LKzGYwKzWtsfSPt2Wd/giphy.gif" width="29px" height="29px"> About Me
+## <img src="https://media.giphy.com/media/LKzGYwKzWtsfSPt2Wd/giphy.gif" width="40px" height="40px"> About Me
 🎓 I am Marwan Ali a Computer Engineering student at McMaster University. I am a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Embedded Systems and actively looking for opportunities. Please feel free to reach out to me if you have any questions or suggestions. I am always open to interesting conversations and collaboration!
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **weight lifting**, **running**, **Archery**, and **going out with friends**.
@@ -13,7 +12,7 @@ You can check out some of my projects here, which I'm proud of but also open to 
 
 ✈️ I love **traveling** too. I have been to coutries like **Germany, Austria, France, Egypt, Switzerland** and my next destination is **Japan**.
 
-## Skills
+## <img src="https://media.giphy.com/media/GlHV2O0IpxAsRjVsNb/giphy.gif" width="40px" height="40px"> Skills
 ### Languages
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -40,7 +39,8 @@ You can check out some of my projects here, which I'm proud of but also open to 
 ![ESP32](https://img.shields.io/badge/Espressif-000000?style=for-the-badge&logo=espressif&logoColor=white)
 
 
-## Contact Me
+## <img src="https://media.giphy.com/media/Rqxo1G6Hr4Ws89R3GH/giphy.gif" width="40px" height="40px"> Contact Me
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://marwansdomain.notion.site/Marwan-Ali-e0a92d7b209a45459904c70395a6f80e?pvs=4)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marwan-ali/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ali186@mcmaster.ca)
+
